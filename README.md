@@ -46,6 +46,8 @@ There are missing values in the possession, yellow_cards, and red_cards columns.
 
 Now let's visualize some of these variables. Specifically, we'll look at the distribution of age, possession, goals, and assists. We'll also create a scatter plot to see if there's a relationship between possession and goals.
 
+![](https://github.com/DarkoMonzioCompagnoni/media/blob/main/Screenshot%202023-07-20%20at%2011.32.05.png)
+
 This analysis provides insights into the offensive (goals, assists) and disciplinary (yellow and red cards) performances of the teams. While the USA dominated in terms of scoring and assists, they were not among the teams with the most disciplinary actions, which suggests effective and fair play.
 
 Let's continue the analysis by examining the correlation between different variables in the dataset. Correlation can help identify relationships between different performance metrics.

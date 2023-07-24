@@ -24,11 +24,11 @@ This analysis should provide a good starting point for further in-depth analysis
 - **penalty_kicks_attempted**: The total number of penalty kicks attempted by the team
 - **yellow_cards**: The total number of yellow cards received by the team
 - **red_cards**: The total number of red cards received by the team
-- **goals_per_90**: The average number of goals scored by the team per 90 minutes of play
-- **assists_per_90**: The average number of assists by the team per 90 minutes of play
-- **goals_plus_assists_per_90**: The average number of goals plus assists by the team per 90 minutes of play
-- **goals_minus_penalty_kicks_per_90**: The average number of goals scored by the team per 90 minutes of play, excluding penalty kicks
-- **goals_plus_assists_minus_penalty_kicks_per_90**: The average number of goals plus assists by the team per 90 minutes of play, excluding penalty kicks
+- **goals_per_90**: The  number of goals scored by the team per 90 minutes of play
+- **assists_per_90**: The  number of assists by the team per 90 minutes of play
+- **goals_plus_assists_per_90**: The  number of goals plus assists by the team per 90 minutes of play
+- **goals_minus_penalty_kicks_per_90**: The  number of goals scored by the team per 90 minutes of play, excluding penalty kicks
+- **goals_plus_assists_minus_penalty_kicks_per_90**: The  number of goals plus assists by the team per 90 minutes of play, excluding penalty kicks
 
 ### Data Cleaning
 
